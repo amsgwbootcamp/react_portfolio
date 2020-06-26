@@ -1,8 +1,8 @@
 import React from 'react';
 // import logo from './logo.svg';
 import './App.css';
-import { BrowserRouter as Router, Route } from "react-router-dom";
-// import Discover from "./pages/Discover";
+import { BrowserRouter as Router, Route } from "react-router-dom"; 
+import Portfolio from "./pages/Portfolio";
 import About from "./pages/About";
 // import Search from "./pages/Search";
 import Navbar from "./components/Navbar";
@@ -18,8 +18,8 @@ function App() {
       <Wrapper>
         <Route exact path="/" component={About} />
         <Route exact path="/about" component={About} />
-        {/* <Route exact path="/discover" component={Discover} />
-        <Route exact path="/search" component={Search} /> */} 
+        <Route exact path="/portfolio" component={Portfolio} />
+        {/* <Route exact path="/search" component={Search} />   */}
       </Wrapper>
       <Footer />
     </div>
