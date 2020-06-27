@@ -3,77 +3,105 @@
     "id": 1,
     "name": "Refactoring Project",
     "image": "images/refactoring.png",
-    "assignment": "Week One",
+    "github": "https://github.com/amsgwbootcamp/week_one_homework",
     "url": "https://amsgwbootcamp.github.io/week_one_homework/index.html"
   },
   {
     "id": 2,
     "name": "Password Generator Project",
     "image": "images/passwordproject.png",
-    "assignment": "Week Two",
+    "github": "https://github.com/amsgwbootcamp/Password_Project",
     "url": "https://amsgwbootcamp.github.io/Password_Project/index.html"
   },
   {
     "id": 3,
     "name": "Code Quiz",
     "image": "images/codequiz.png",
-    "assignment": "Week Three",
+    "github": "https://github.com/amsgwbootcamp/Coding_Quiz",
     "url": "https://amsgwbootcamp.github.io/Coding_Quiz/index.html"
   },
   {
     "id": 4,
     "name": "Daily Planner",
     "image": "images/dailyplanner.png",
-    "assignment": "Week Four",
+    "github": "https://github.com/amsgwbootcamp/DailyPlanner",
     "url": "https://amsgwbootcamp.github.io/DailyPlanner/index.html"
   },
   {
     "id": 5,
     "name": "Weather Dashboard",
     "image": "images/weatherdashboard.png",
-    "assignment": "Week Five",
+    "github": "https://github.com/amsgwbootcamp/WeatherDashboard",
     "url": "https://amsgwbootcamp.github.io/WeatherDashboard/index.html"
   },
   {
     "id": 6,
     "name": "Project One",
     "image": "images/projectone.png",
-    "assignment": "Week Six",
+    "github": "https://github.com/athomik79/WTF-app",
     "url": "https://athomik79.github.io/WTF-app/index.html"
   },
   {
     "id": 7,
     "name": "Readme File Generator",
     "image": "images/readme.PNG",
-    "assignment": "Week Seven",
+    "github": "https://github.com/amsgwbootcamp/ReadmeGenerator",
     "url": "https://github.com/amsgwbootcamp/ReadmeGenerator"
   },
   {
     "id": 8,
     "name": "Team Profile Generator",
     "image": "images/teamgenerator.png",
-    "assignment": "Week Eight",
+    "github": "https://github.com/amsgwbootcamp/TeamGenerator",
     "url": "https://github.com/amsgwbootcamp/TeamGenerator"
   },
   {
     "id": 9,
     "name": "Note Taker",
     "image": "images/notetaker.png",
-    "assignment": "Week Nine",
+    "github": "https://github.com/amsgwbootcamp/NoteTaker",
     "url": "https://hidden-woodland-55628.herokuapp.com/"
   },
   {
     "id": 10,
-    "name": "Eat Da Burger",
-    "image": "images/burger.png",
-    "assignment": "Week Ten",
-    "url": "https://evening-oasis-04106.herokuapp.com"
+    "name": "Employee Tracker",
+    "image": "images/employeetracker.png",
+    "github": "https://github.com/amsgwbootcamp/EmployeeTracker",
+    "url": "https://github.com/amsgwbootcamp/EmployeeTracker"
   },
   {
     "id": 11,
+    "name": "Eat Da Burger",
+    "image": "images/burger.png",
+    "github": "https://github.com/amsgwbootcamp/burger",
+    "url": "https://evening-oasis-04106.herokuapp.com"
+  },
+  {
+    "id": 12,
     "name": "Project Two",
     "image": "images/projecttwo.png",
-    "assignment": "Week Eleven",
+    "github": "https://github.com/amsgwbootcamp/GroceryStore",
     "url": "https://lit-ocean-92189.herokuapp.com/"
+  },
+  {
+    "id": 13,
+    "name": "Fitness Tracker",
+    "image": "images/fitnesstracker.png",
+    "github": "https://github.com/amsgwbootcamp/FitnessTracker",
+    "url": "https://salty-caverns-42626.herokuapp.com/"
+  },
+  {
+    "id": 14,
+    "name": "Progressive Budget",
+    "image": "images/budget.png",
+    "github": "https://github.com/amsgwbootcamp/budget",
+    "url": "https://pure-retreat-30450.herokuapp.com/"
+  },
+  {
+    "id": 15,
+    "name": "React Employee Directory",
+    "image": "images/reactempdirectory.png",
+    "github": "https://github.com/amsgwbootcamp/reactEmployeeDirectory",
+    "url": "https://vast-basin-07898.herokuapp.com/"
   }
 ]
