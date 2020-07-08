@@ -103,5 +103,12 @@
     "image": "images/reactempdirectory.png",
     "github": "https://github.com/amsgwbootcamp/reactEmployeeDirectory",
     "url": "https://vast-basin-07898.herokuapp.com/"
-  }
+  },
+  {
+    "id": 16,
+    "name": "React Google Book Search",
+    "image": "images/googlebookserach.png",
+    "github": "https://github.com/amsgwbootcamp/reactgooglebook",
+    "url": "https://amsgwbootcamp-google-app.herokuapp.com/"
+  },
 ]
